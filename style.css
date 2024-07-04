@@ -12,4 +12,9 @@ div{
 }
 h3{
     color:crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+    list-style-type:georgian;
+    font-family: monospace;
 }
